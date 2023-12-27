@@ -17,7 +17,10 @@ root.render(<p>Halleo</p>);
 
 const container = document.getElementById('sandy');
 const root = ReactDOM.createRoot(container);
+
+
 root.render(<p>Hallot34</p>);
 
+const container = document.getElementById('sandy');
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<Car />);
