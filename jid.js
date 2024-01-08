@@ -7,7 +7,7 @@ root.render(<Car />);
 
             class Car extends React.Component {
   render() {
-    return <h3> Hi, I am a new Cars! </h3>;
+    return <h2> Hi, I am a new Cars! </h2>;
   }
 }
 
