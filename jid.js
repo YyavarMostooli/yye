@@ -15,7 +15,7 @@ const container = document.getElementById('sandy');
 const root = ReactDOM.createRoot(container);
 root.render(<p>Halleo</p>);
 
-const container = document.getElementById('sandy');
+const container = document.getElementById('sany');
 const root = ReactDOM.createRoot(container);
 
 
