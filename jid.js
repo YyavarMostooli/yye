@@ -12,7 +12,7 @@ root.render(<Car />);
 }
 
 const container = document.getElementById('sandy');
-const root = ReactDOM.createRoot(container);
+const root = ReactDOM.creteRoot(container);
 root.render(<p>Halleo</p>);
 
 const container = document.getElementById('sany');
