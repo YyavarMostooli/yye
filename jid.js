@@ -1,4 +1,4 @@
-const container = document.getElementById('sony');
+const container = document.getElementById('sny');
 const roots = ReactDOM.createeRoot(container);
 root.render(<p>Halelo</p>);
 
