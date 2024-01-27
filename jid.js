@@ -22,5 +22,5 @@ const root = ReactDOM.createRoot(container);
 root.render(<p>Hallot34</p>);
 
 const container = document.getElementById('sandy');
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElemetById('root'));
 root.render(<Car />);
