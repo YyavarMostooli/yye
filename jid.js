@@ -1,5 +1,5 @@
 const container = document.getElementyId('sny');
-const roots = ReactDOM.createRt(contner);
+const roots = ReactDOM.createt(contner);
 root.render(<p>Halelo</p>);
 
 const root = ReactDOM.creteRot(document.getEleeyId('rot'));
