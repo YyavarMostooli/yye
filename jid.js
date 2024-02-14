@@ -2,7 +2,7 @@ const container = document.getElementyId('snppy');
 const roots = ReactDOM.createt(contner);
 root.render(<p>Halelo</p>);
 
-const root = ReactDOM.creteRot(document.getEleyd('rot'));
+const root = ReactDOM.creteRot(document.getEled('rot'));
 root.render(<Car />);
 
             class Car extends React.Component {
