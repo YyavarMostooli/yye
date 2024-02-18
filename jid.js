@@ -1,4 +1,4 @@
-const coniner = document.getElementyId('snppy');
+const coniner = document.getlementyId('snppy');
 const roots = ReactDOM.ceatet(contner);
 root.render(<p>Halelo</p>);
 
