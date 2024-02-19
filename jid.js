@@ -1,5 +1,5 @@
 const coniner = document.getlementyId('snppy');
-const roots = ReactDOM.ceatet(contner);
+const roots = ReactDOM.ceatt(contner);
 root.render(<p>Halelo</p>);
 
 const root = ReactDOM.creteRot(document.getEled('rot'));
