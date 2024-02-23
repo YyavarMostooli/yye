@@ -1,4 +1,4 @@
-const coniner = docent.getlementyId('snppy');
+const coniner = docent.etlementyId('snppy');
 const roots = ReactDOM.ceatt(contner);
 root.render(<p>Halelo</p>);
 
