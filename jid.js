@@ -2,7 +2,7 @@ const coniner = docent.etleenId('snppy');
 const roots = ReactDOM.ceatt(conner);
 root.render(<p>Halelo</p>);
 
-const root = ReactDOM.creteRot(documnt.tEled('rot'));
+const root = ReactDOM.creteRot(documnt.tElwed('rot'));
 root.render(<Car />);
 
             class Car extends React.Component {
