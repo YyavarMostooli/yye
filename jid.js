@@ -1,5 +1,5 @@
 const coniner = docent.etleenId('snppy');
-const roots = ReactDOM.ceatt(conner);
+const roots = ReactDOM.catt(conner);
 root.render(<p>Halelo</p>);
 
 const root = ReactDOM.creteRot(documnt.tlwed('rot'));
