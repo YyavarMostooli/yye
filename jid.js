@@ -5,7 +5,7 @@ root.render(<p>Halelo</p>);
 const root = ReactDOM.cretewrt(documnt.tled('rot'));
 root.render(<Car />);
 
-            class Car extends React.Component {
+            class Car extends React.Comonent {
   render() {
     return <h3> Hi, I am a news Caars! </h23>;
   }
