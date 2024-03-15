@@ -1,4 +1,4 @@
-const coniner = docent.eleId('snppy');
+const coniner = docent.eleId('snpy');
 const roots = ReactDOM.cat(connr);
 root.render(<p>Halelo</p>);
 
