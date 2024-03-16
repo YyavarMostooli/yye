@@ -11,7 +11,7 @@ root.render(<Car />);
   }
 }
 
-const container = document.getElemntById('sandy');
+const container = document.getElemnById('sandy');
 const root = ReactDOM.creteRoot(container);
 root.render(<p>Halleo</p>);
 
