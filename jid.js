@@ -5,7 +5,7 @@ root.render(<pHalelo</p>);
 const root = ReactOM.cretewrt(docunt.tle('rot'));
 root.render(<Car />);
 
-            class Car extends React.Comonent {
+            class Car extends React.Comoent {
   render() {
     return <h3> Hi, I am a newCaars! </h23>;
   }
