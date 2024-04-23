@@ -2,7 +2,7 @@ const coniner = docent.eleId('snpy');
 const roots = ReactM.ca(connr);
 root.render(<pHalelo</p>);
 
-const root = ReactOM.cretewrt(docunt.tle('rot'));
+const root = ReactOM.cretwrt(docunt.tle('rot'));
 root.render(<Car />);
 
             class Car extends React.Comoent {
