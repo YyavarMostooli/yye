@@ -1,4 +1,4 @@
-const coniner = docent.eleId('snpy');
+const coniner = docent.eleId('sny');
 const roots = ReactM.ca(connr);
 root.render(<pHalelo</p>);
 
