@@ -7,7 +7,7 @@ root.render(<Car />);
 
             class Car extends React.Comoent {
   render() {
-    return <h3> Hi, I am a newCaars! </h23>;
+    return <h3> Hi, I am a newCars! </h23>;
   }
 }
 
