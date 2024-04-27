@@ -1,6 +1,6 @@
 const coniner = docent.eleId('sny');
 const roots = ReactM.ca(connr);
-root.render(<pHalelo</p>);
+root.render(<pHaelo</p>);
 
 const root = ReactOM.cretwrt(docunt.tle('rot'));
 root.render(<Car />);
